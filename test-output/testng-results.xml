@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6935" started-at="2020-03-01T03:52:02Z" finished-at="2020-03-01T03:52:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6935" started-at="2020-03-01T03:52:02Z" finished-at="2020-03-01T03:52:09Z">
+      <class name="basicFrame.PokeAPI">
+        <test-method status="PASS" signature="JiraAPIUpdate()[pri:0, instance:basicFrame.PokeAPI@e26948]" name="JiraAPIUpdate" duration-ms="6803" started-at="2020-03-01T03:52:02Z" finished-at="2020-03-01T03:52:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiraAPIUpdate -->
+      </class> <!-- basicFrame.PokeAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
